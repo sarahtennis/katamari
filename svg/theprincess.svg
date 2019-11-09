@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="37px" height="21px" viewBox="0 0 37 21" xmlns="http://www.w3.org/2000/svg">
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 229.824 133.933"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 226.892 121.152"/>
+  <g transform="matrix(1, 0, 0, 1, -8.271534, -5.468488)">
+    <path style="fill: rgb(215, 150, 170); stroke: rgb(215, 150, 170);" d="M 37.954 12.114 L 15.657 12.114"/>
+    <path style="fill: rgb(215, 150, 170); stroke: rgb(215, 150, 170);" d="M 37.885 24.983 L 15.632 24.983" transform="matrix(-1, 0, 0, -1, 53.516998, 49.966)"/>
+    <circle style="fill: rgb(215, 150, 170);" cx="37.913" cy="18.54" r="6.934"/>
+    <circle style="fill: rgb(215, 150, 170);" cx="15.88" cy="18.551" r="6.934"/>
+    <rect x="15.522" y="12.052" width="21.863" height="12.912" style="fill: rgb(215, 150, 170);"/>
+  </g>
+  <polyline style="stroke-width: 0px; stroke: rgb(218, 96, 50); fill: rgb(231, 202, 71);" points="18.938 6.334 20.097 6.302 18.961 2.023 17.796 6.332"/>
+  <rect x="9.43" y="6.143" width="19.078" height="13.866" style="fill: rgb(220, 224, 191);"/>
+  <rect x="12.571" y="7.188" width="12.743" height="9.09" style="stroke: rgb(231, 202, 71); stroke-width: 0.5px; fill: rgb(239, 204, 182);"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 44.221 8.362"/>
+  <path style="stroke-width: 0px; stroke: rgb(80, 41, 26); fill: rgb(80, 41, 26);" d="M 12.837 7.373 L 12.837 10.851 C 16.977 10.814 18.174 8.255 18.605 7.447 L 12.831 7.425"/>
+  <path style="stroke: rgb(80, 41, 26); fill: rgb(80, 41, 26);" d="M 33.203 9.71"/>
+  <path style="stroke: rgb(80, 41, 26); fill: rgb(80, 41, 26);" d="M 23.777 9.272"/>
+  <path style="stroke-width: 0px; stroke: rgb(80, 41, 26); fill: rgb(80, 41, 26);" d="M 19.3 10.873 L 19.3 7.395 C 23.44 7.432 24.637 9.991 25.068 10.799 L 19.294 10.821" transform="matrix(-1, 0, 0, -1, 44.362001, 18.268)"/>
+  <ellipse style="fill: rgb(109, 109, 132);" cx="21.244" cy="13.165" rx="0.538" ry="0.338" transform="matrix(0.777146, 0.62932, -0.62932, 0.777146, 7.812589, -12.564084)"/>
+  <ellipse style="fill: rgb(109, 109, 132);" cx="-21.244" cy="-13.165" rx="0.538" ry="0.338" transform="matrix(0.777146, -0.62932, -0.62932, -0.777146, 29.922407, -12.62546)"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 25.625 13.324"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 25.633 13.369"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 25.422 13.436" transform="matrix(-1, 0, 0, -1, 50.844002, 26.872)"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 25.414 13.481" transform="matrix(-1, 0, 0, -1, 50.827999, 26.962)"/>
+  <polyline style="stroke-width: 0px; stroke: rgb(218, 96, 50); fill: rgb(218, 96, 50);" points="18.884 12.886 19.182 12.877 18.889 11.686 18.59 12.885"/>
+  <polyline style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="25.326 12.732" transform=""/>
+  <circle style="fill: rgb(200, 46, 51);" cx="18.936" cy="1.602" r="1.246"/>
+  <path style="stroke-width: 0px; stroke: rgb(200, 46, 51); fill: rgb(200, 46, 51);" d="M 18.231 13.356 L 19.62 13.356 L 19.336 13.992 L 18.469 13.985 L 18.231 13.356 Z"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 53.59 27.387"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(220, 224, 191);" d="M 3.081 7.789 C 4.238 6.861 4.948 6.499 6.075 6.322 L 6.075 19.857 L 5.409 19.675 L 4.59 19.339 L 3.974 19.008 L 3.472 18.68 L 3.077 18.342 L 3.076 7.795"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(220, 224, 191);" d="M 31.146 18.382 C 32.303 19.31 33.013 19.672 34.14 19.849 L 34.14 6.314 L 33.474 6.496 L 32.655 6.832 L 32.039 7.163 L 31.537 7.491 L 31.142 7.829 L 31.141 18.376" transform="matrix(-1, 0, 0, -1, 65.281, 26.163001)"/>
+</svg>
